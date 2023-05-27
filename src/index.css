@@ -104,7 +104,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  height: 50vh;
+  height: 60vh;
 }
 
 .wrapper h3 {
